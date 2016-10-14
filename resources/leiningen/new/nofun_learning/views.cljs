@@ -6,4 +6,4 @@
 (defn main-panel []
   [:div
    [:h1 "Welcome to the world's first New Orleans Clojure Workshop!"]
-   [:img {:src "/louisarmstrong.jpg"}]])
+   [:img {:src "https://raw.githubusercontent.com/lispcast/lotto/initial/resources/public/louisarmstrong.jpg"}]])
